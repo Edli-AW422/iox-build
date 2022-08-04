@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.72acc2df.chunk.css",
-    "main.js": "/static/js/main.1bd41f06.chunk.js",
-    "main.js.map": "/static/js/main.1bd41f06.chunk.js.map",
+    "main.css": "/static/css/main.beccf119.chunk.css",
+    "main.js": "/static/js/main.83211b76.chunk.js",
+    "main.js.map": "/static/js/main.83211b76.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5542df82.js",
     "runtime-main.js.map": "/static/js/runtime-main.5542df82.js.map",
     "static/js/2.bd505605.chunk.js": "/static/js/2.bd505605.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e5fbc244.chunk.js": "/static/js/3.e5fbc244.chunk.js",
     "static/js/3.e5fbc244.chunk.js.map": "/static/js/3.e5fbc244.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.72acc2df.chunk.css.map": "/static/css/main.72acc2df.chunk.css.map",
+    "static/css/main.beccf119.chunk.css.map": "/static/css/main.beccf119.chunk.css.map",
     "static/js/2.bd505605.chunk.js.LICENSE.txt": "/static/js/2.bd505605.chunk.js.LICENSE.txt",
     "static/media/IOX_LOGO.cfdc6e3e.png": "/static/media/IOX_LOGO.cfdc6e3e.png",
     "static/media/cancel.dcf94367.png": "/static/media/cancel.dcf94367.png",
@@ -18,12 +18,13 @@
     "static/media/discord.87103b7f.png": "/static/media/discord.87103b7f.png",
     "static/media/styles.scss": "/static/media/montserrat.regular.e20d5327.ttf",
     "static/media/telegram.e9722f26.png": "/static/media/telegram.e9722f26.png",
-    "static/media/twitter.c6e48e60.png": "/static/media/twitter.c6e48e60.png"
+    "static/media/twitter.c6e48e60.png": "/static/media/twitter.c6e48e60.png",
+    "static/media/youtube.ee9f2148.png": "/static/media/youtube.ee9f2148.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5542df82.js",
     "static/js/2.bd505605.chunk.js",
-    "static/css/main.72acc2df.chunk.css",
-    "static/js/main.1bd41f06.chunk.js"
+    "static/css/main.beccf119.chunk.css",
+    "static/js/main.83211b76.chunk.js"
   ]
 }
